@@ -9,6 +9,7 @@
 4. 等等安装
    ![](/assets/sp-a4.jpg)
 5. 安装完成
+   ![](/assets/sp-a5.jpg)
 
 
 
