@@ -4,8 +4,7 @@
    ![](/assets/1.jpg)
 2. 选择要安装的其它组件
 
-1. 
-
+   ![](/assets/main-2.jpg)
 
 
 
