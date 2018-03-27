@@ -1,4 +1,4 @@
-# 安装TCRSP
+# 安装 TCRSP
 
 1. 打开安装程序
    ![](/assets/sp-a1.jpg)
