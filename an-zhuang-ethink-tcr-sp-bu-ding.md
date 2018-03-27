@@ -1,4 +1,4 @@
-# 安装VS2008支持包
+# 安装EThink TCP SP 补丁
 
 
 
