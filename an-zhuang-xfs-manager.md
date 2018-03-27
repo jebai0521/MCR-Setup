@@ -1,6 +1,7 @@
 # 安装 XFS Manager
 
-1. 选择安装
+1. ## 选择安装
+
    ![](/assets/xfs-1.jpg)
 2. 下一步
    ![](/assets/xfs-2.jpg)
