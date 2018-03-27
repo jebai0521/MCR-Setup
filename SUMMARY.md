@@ -9,6 +9,6 @@
 * [安装XFS Manager](an-zhuang-xfs-manager.md)
 * [安装Ethink TCR SP](an-zhuang-ethink-tcr-sp.md)
 * [安装 Ethink TCR Sp 补丁](an-zhuang-ethink-tcr-sp-bu-ding.md)
-* 安装冠字号驱动
-* 申请 License
+* [安装冠字号驱动](an-zhuang-guan-zi-hao-qu-dong.md)
+* [申请 License](shen-qing-license.md)
 
