@@ -9,4 +9,5 @@
 * [安装 Ethink TCR SP](an-zhuang-ethink-tcr-sp.md)
 * [安装冠字号驱动](an-zhuang-guan-zi-hao-qu-dong.md)
 * [申请 License](shen-qing-license.md)
+* [连接设备相关外设](lian-jie-she-bei-xiang-guan-wai-she.md)
 
